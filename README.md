@@ -45,7 +45,7 @@ Weekly Python challenges to keep skills sharp.
 ![Denis Mbaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mb4y4&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- **Email:** your-email@example.com
+- **Email:** d.sommy@gmail.com
 - **LinkedIn:** [Dennis Mbaya](https://www.linkedin.com/in/dennis-mbaya)
 
 Feel free to check out my repositories and connect with me!
