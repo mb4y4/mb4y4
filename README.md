@@ -6,7 +6,7 @@ Welcome to my digital universe! I'm a passionate software developer based in Nai
 - 🌍 From Nairobi, Kenya
 - 💼 Currently working as a software developer
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/dennis-mbaya)
-- 📧 Reach out at [your-email@example.com]
+- 📧 Reach out at [d.sommy@gmail.com]
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, HTML, CSS
